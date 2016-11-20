@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/Users/jennifernghinguyen/OneDrive/Documents/CS 151/Section4_010872316_NNguyen_HW6/Problem 2 - WebLoader/WebLoader.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/WebFrame/src/description.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=WebFrame/src&lt;{WebFrameDemo.java[WebFrameDemo" manifestLocation="/WebFrame/src/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=WebFrame"/>
+    </selectedElements>
+</jardesc>
